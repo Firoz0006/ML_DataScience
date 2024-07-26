@@ -1,2 +1,2 @@
-Machine Learning ana Data Science With Practical 
+Machine Learning and Data Science With Practical 
 Codanics
